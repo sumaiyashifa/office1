@@ -1,0 +1,13 @@
+
+Employee id: 2007002
+From  11 to13
+Reason:health
+Status Declained
+...
+
+
+Employee id: 2007001
+From  13 to 22
+Reason:mental issue
+Status: Pending
+...
